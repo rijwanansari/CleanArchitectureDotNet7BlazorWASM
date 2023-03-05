@@ -26,7 +26,7 @@ This is a project sample for **Blazor WebAssembly** with **.NET 7** following **
 
 ## Down the Roadmap 🚀
 - Implement Blazor UI component - Ant Design Blazor
-- Authenctication and Authorization
+- Authentication and Authorization
 - UI Enhancement
 - Implement Admin LTE Design
 - File Upload to Azure Blog Example
@@ -38,7 +38,7 @@ This is a project sample for **Blazor WebAssembly** with **.NET 7** following **
 
 ## Contribution 🤝
 
-This is a open-source project and contributers are what make such project with rich feature to learn, inspire, and motivate. Any contributions you make are **greatly appreciated**.
+This is an open-source project and contributes are what make such project with rich feature to learn, inspire, and motivate. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Module Branch (`git checkout -b module/FeatureName`)
@@ -51,4 +51,4 @@ This is a open-source project and contributers are what make such project with r
 Distributed under the MIT License.
 
 ## Support ⭐
-This project is created for learning and sharing purpose. Addtionally, this project can be used your project. Please share your feedback or issues. Please support with star and share in your nextwork 👌
+This project is created for learning and sharing purpose. Additionally, this project can be used in your project. Please share your feedback or issues. Please support with star and share in your network 👌
